@@ -52,11 +52,11 @@ header > p {
     color: white;
     font-size: 1.2em;
     font-family: var(--font-padrao);
-    max-width: 500px;
+    max-width: 600px;
     margin: auto;
     padding-right: 10px;
     padding-left: 10px;
-    margin-bottom: 20px;
+    padding-bottom: 50px;
 }
 
 body > header > h1{
